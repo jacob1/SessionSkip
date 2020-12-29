@@ -1,0 +1,5 @@
+name: SessionSkip
+main: us.starcatcher.sessionskip.SessionSkip
+version: 1
+author: jacob1
+depends: ['BungeeYAML']

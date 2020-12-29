@@ -170,3 +170,7 @@ build.xml
 lib/*
 nbproject/*
 manifest.mf
+
+
+# Maven
+target
